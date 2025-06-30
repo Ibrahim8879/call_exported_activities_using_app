@@ -1,0 +1,1 @@
+This proof-of-concept app allows users to invoke any exported activity from other applications. It can be easily modified to target other exported components such as services, content providers, or broadcast receivers, making it a versatile tool for demonstrating insecure component exposure in Android apps.
